@@ -1,0 +1,7 @@
+<form (ngSubmit)="getWeather()" #zipForm="ngForm">
+	<input id="weather-input" class="form-control" type="text" name="zip" [(ngModel)]="zip" style="width: 40%;margin-right: 7%;" required />
+	<div [hidden]="zip.valid || zip.pristine" class="alert alert-danger">
+		Zip is required
+    </div>
+	<button type="submit" class="btn btn-primary" [disabled]="!zipForm.form.valid">Search</button>
+</form>
