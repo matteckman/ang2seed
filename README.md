@@ -10,7 +10,7 @@ The goal for this app is to have a seed app for starting an Angular2 app, and to
 
 * Move to AngularSeed as foundation for app (https://github.com/mgechev/angular-seed)
 
-* Building the app
+* Build tools
   * Uses SystemJS to handle requires
   * Uses Gulp (pipes) to handle larger builds
 
