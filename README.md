@@ -1,6 +1,6 @@
 # Seed App for Angular2
 
-The goal for this app is to have a seed app for starting an Angular2 app, and it is also to generate discussion about architectural elements in an enterprise-level Angular2 app.
+The goal for this app is to have a seed app for starting an Angular2 app, and to generate discussion about architectural elements in an enterprise-level Angular2 app.
 
 # Installing (after cloning from Github)
 
