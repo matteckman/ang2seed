@@ -11,15 +11,15 @@
 * Move to AngularSeed as foundation for app (https://github.com/mgechev/angular-seed)
 
 * Building the app
- * Uses SystemJS to handle requires
- * Uses Gulp (pipes) to handle larger builds
+  * Uses SystemJS to handle requires
+  * Uses Gulp (pipes) to handle larger builds
 
 * Consuming API's and aggregating into a cohesive data (persistance) layer - from the server or from the client
- * GraphQL (Apollo) vs Falcor
- * https://auth0.com/blog/getting-started-with-falcor/
- * https://github.com/amalshehu/data-persistence
- * http://www.apollodata.com/
- * http://graphql.org/blog/rest-api-graphql-wrapper/
+  * GraphQL (Apollo) vs Falcor
+  * https://auth0.com/blog/getting-started-with-falcor/
+  * https://github.com/amalshehu/data-persistence
+  * http://www.apollodata.com/
+  * http://graphql.org/blog/rest-api-graphql-wrapper/
 
 * Building one app so it works on multiple platforms (mobile, desktop)
  * Electron 
