@@ -36,7 +36,7 @@ The goal for this app is to have a seed app for starting an Angular2 app, and to
   * session servers
   * speed testing and optimizing
 
-* A swap-in view framework model (OR switch from Bootstrap to something else)
+* A swap-in view framework model (i.e. switching from Bootstrap to something else)
 
 * Testing
   * Unit Testing: Jasmine, Karma
