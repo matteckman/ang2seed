@@ -50,4 +50,5 @@ The goal for this app is to have a seed app for starting an Angular2 app, and to
   * Style guide choices
   * Dependency management in plugins (Yarn)
   * Documentation
+    https://github.com/compodoc/compodoc
   * Configuration management across environments (env mgmt)
